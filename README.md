@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://pbs.twimg.com/profile_images/971479286887534592/x6zE8fDY_400x400.jpg" height="100px"/>
   <br><br>
-  <b>Timestamps for <a href="http://www.reactrally.com/">React really</a> livestream</b>
+  <b>Timestamps for <a href="http://www.reactrally.com/">React rally</a> livestream</b>
   <br><br>
 </p>
 
